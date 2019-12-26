@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/swagath-portfolio/static/css/main.d1b05096.chunk.css",
-    "main.js": "/swagath-portfolio/static/js/main.cae9b505.chunk.js",
-    "main.js.map": "/swagath-portfolio/static/js/main.cae9b505.chunk.js.map",
+    "main.js": "/swagath-portfolio/static/js/main.597bc002.chunk.js",
+    "main.js.map": "/swagath-portfolio/static/js/main.597bc002.chunk.js.map",
     "runtime-main.js": "/swagath-portfolio/static/js/runtime-main.7cdfc8fe.js",
     "runtime-main.js.map": "/swagath-portfolio/static/js/runtime-main.7cdfc8fe.js.map",
     "static/js/2.b5fb4d0f.chunk.js": "/swagath-portfolio/static/js/2.b5fb4d0f.chunk.js",
     "static/js/2.b5fb4d0f.chunk.js.map": "/swagath-portfolio/static/js/2.b5fb4d0f.chunk.js.map",
     "index.html": "/swagath-portfolio/index.html",
-    "precache-manifest.4d38d38cd97a45e47770d07758fa8f29.js": "/swagath-portfolio/precache-manifest.4d38d38cd97a45e47770d07758fa8f29.js",
+    "precache-manifest.ea7a0ca90f30024833d4143fb56accf8.js": "/swagath-portfolio/precache-manifest.ea7a0ca90f30024833d4143fb56accf8.js",
     "service-worker.js": "/swagath-portfolio/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/swagath-portfolio/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.b5fb4d0f.chunk.js.LICENSE": "/swagath-portfolio/static/js/2.b5fb4d0f.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7cdfc8fe.js",
     "static/js/2.b5fb4d0f.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.cae9b505.chunk.js"
+    "static/js/main.597bc002.chunk.js"
   ]
 }

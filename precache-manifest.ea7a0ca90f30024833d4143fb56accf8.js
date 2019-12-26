@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a637e29382228e10413b490dffb82e58",
+    "revision": "bfee07182a0f22d543918ec0100bd313",
     "url": "/swagath-portfolio/index.html"
   },
   {
-    "revision": "690b1807f23f1e899a3a",
+    "revision": "dbcfaa0cda101533efff",
     "url": "/swagath-portfolio/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/swagath-portfolio/static/js/2.b5fb4d0f.chunk.js.LICENSE"
   },
   {
-    "revision": "690b1807f23f1e899a3a",
-    "url": "/swagath-portfolio/static/js/main.cae9b505.chunk.js"
+    "revision": "dbcfaa0cda101533efff",
+    "url": "/swagath-portfolio/static/js/main.597bc002.chunk.js"
   },
   {
     "revision": "660d670b403f94177683",
