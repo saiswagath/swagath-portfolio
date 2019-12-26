@@ -50,7 +50,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>I have good grasp over fundamental concepts of DSA.</p>
+                    <p>Well verse with the fundamental concepts of DSA. Open to explore synergies and projects.</p>
                 </div>
                 </div>
             </div>
@@ -61,7 +61,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Big Data</h3>
-                    <p>I am familar with Big Data architecture for building distributed software systems. I had used Json simple for Json parsing, Spring Boot for rest API development, Elastic Search for search and retrieval capabilities, Redis for Cache solutions, Json Schema for schema validation and Zuul for API Gateway pattern. 
+                    <p>Familar with Big Data architecture for building distributed software systems. I had used Json simple for Json parsing, Spring Boot for rest API development, Elastic Search for search and retrieval capabilities, Redis for Cache solutions, Json Schema for schema validation and Zuul for API Gateway pattern. 
  </p>
                 </div>
                 </div>
