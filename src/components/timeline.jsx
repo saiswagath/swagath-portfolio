@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at MathWorks <span>June 2019- Decemeber 2019</span></h2>
+                        <h2>Software Engineer Intern at MathWorks <span>June 2019- Decemeber 2019</span></h2>
                         <ul><b>Software Engineer Intern</b>
                            <li>Altered <b>MATLAB</b> test session bucketing algorithm, for optimal utilization of host machines</li>
                            <li>Created visualization using <b>D3.js</b> to detect abnormalities in host allocations across different platforms</li>
