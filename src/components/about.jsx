@@ -50,7 +50,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>Well verse with the fundamental concepts of DSA. Open to explore synergies and projects.</p>
+                    <p>Well versed with the fundamental concepts of DSA.</p>
                 </div>
                 </div>
             </div>
