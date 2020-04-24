@@ -27,7 +27,7 @@ export default class Sidebar extends Component {
               <ul>
                 <li><a href="https://www.facebook.com/swagathsaika" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
                 <li><a href="https://twitter.com/swagath_21" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
-                <li><a href="https://www.instagram.com/_ssai_21_/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
+                <li><a href="https://www.instagram.com/_ssai21_" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
                 <li><a href="https://www.linkedin.com/in/swagathsai/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/saiswagath" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
               </ul>
